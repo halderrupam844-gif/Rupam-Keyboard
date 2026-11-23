@@ -24,3 +24,5 @@ This is not a Gboard replacement. Bengali is a basic sample layout, not phonetic
 
 
 Android APK build workflow: `.github/workflows/android-apk.yml`.
+
+Build workflow SDK setup corrected.
