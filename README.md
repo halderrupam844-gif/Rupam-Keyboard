@@ -21,3 +21,6 @@ Android custom keyboard (IME) starter project built with Kotlin.
 
 ## Current prototype limitations
 This is not a Gboard replacement. Bengali is a basic sample layout, not phonetic transliteration. Autocorrect, word suggestions, glide typing, emoji/clipboard panels, image backgrounds, and full color pickers are not implemented. Test before daily use.
+
+
+Android APK build workflow: `.github/workflows/android-apk.yml`.
